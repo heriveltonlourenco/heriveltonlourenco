@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi!!! 👋
 
-<!--
-**heriveltonlourenco/heriveltonlourenco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Learn a little about me here:
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Tinklas Digital
+- 🌱 I’m currently learning NodeJS, ExpressJS, React and React Native
+- 👯 I’m looking to collaborate on backend on NodeJS, ExpressJS, React and React Native
+- 🤔 I’m looking for help with Advanced Javascipt programing
+- 💬 Ask me about my jobs
+- 📫 How to reach me: heriveltonlourenco@gmail.com
+- 😄 Pronouns: Call me as you wish
+- ⚡ Fun fact: I am a therapist with Psychoanalysis and Clinical Hypnosis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
