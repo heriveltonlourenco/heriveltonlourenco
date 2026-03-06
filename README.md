@@ -7,6 +7,6 @@ Learn a little about me here:
 - 👯 I’m looking to collaborate on backend on Typescript, Node, NuxtJs or NextJs, Vue or React, Fastify
 - 🤔 I’m looking for to help with Advanced Typescript programing
 - 💬 Ask me about my jobs
-- 📫 How to reach me: heriveltonlourenco@gmail.com
+- 📫 How to contact me: heriveltonlourenco@gmail.com / @heriveltonlourenco on Meta apps
 - ⚡ Fun fact: I am also a with Psychoanalyst and Hypnotherapist
 
