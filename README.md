@@ -8,5 +8,5 @@ Learn a little about me here:
 - 🤔 I’m looking for to help with Advanced Typescript programing
 - 💬 Ask me about my jobs
 - 📫 How to reach me: heriveltonlourenco@gmail.com
-- ⚡ Fun fact: I am also a therapist with Psychoanalysis and Clinical Hypnosis
+- ⚡ Fun fact: I am also a with Psychoanalyst and Hypnotherapist
 
