@@ -2,7 +2,7 @@
 
 Learn a little about me here:
 
-- 🔭 I’m CEO on Tinklas Smart solutions
+- 🔭 CEO on Tinklas Smart solutions
 - 🌱 I’m currently using Typescript, Node, NuxtJs or NextJs, Vue or React, Fastify and others. 
 - 👯 I’m looking to collaborate on backend on Typescript, Node, NuxtJs or NextJs, Vue or React, Fastify
 - 🤔 I’m looking for to help with Advanced Typescript programing
